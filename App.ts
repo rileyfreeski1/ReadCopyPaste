@@ -4,6 +4,7 @@
 
   import { <exported-named-class } from './providers/<name-of-provider>
 */
+
 export class App {
   constructor() {}
 
