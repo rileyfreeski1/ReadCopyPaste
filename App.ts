@@ -10,8 +10,8 @@ export class App {
 new App()
   .execute()
   .then(resp => {
-    console.log(resp);
+    console.log(resp)
   })
   .catch(err => {
-    console.log(err);
-  });
+    console.log(err)
+  })

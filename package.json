@@ -2,7 +2,7 @@
   "name": "readcopypaste",
   "version": "1.0.0",
   "scripts": {
-    "build": "grunt --gruntfile gruntfile.js"
+    "build:rcp": "grunt --gruntfile gruntfile.js"
   },
   "author": "Riley Bell",
   "license": "ISC",

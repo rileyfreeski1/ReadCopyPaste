@@ -14,11 +14,11 @@ module.exports = function(grunt) {
         outDir: './dist'
       }
     }
-  });
+  })
 
-  grunt.loadNpmTasks("grunt-ts");
+  grunt.loadNpmTasks("grunt-ts")
 
   grunt.registerTask("default", [
     'ts'
-  ]);
+  ])
 }
