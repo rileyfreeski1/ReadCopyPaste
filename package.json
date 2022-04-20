@@ -1,0 +1,17 @@
+{
+  "name": "readcopypaste",
+  "version": "1.0.0",
+  "scripts": {
+    "build": "grunt --gruntfile gruntfile.js"
+  },
+  "author": "Riley Bell",
+  "license": "ISC",
+  "dependencies": {
+    "grunt": "^1.4.1",
+    "grunt-ts": "^6.0.0-beta.22",
+    "typescript": "^4.6.3"
+  },
+  "devDependencies": {
+    "@types/node": "^17.0.25"
+  }
+}
