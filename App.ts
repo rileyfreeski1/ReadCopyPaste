@@ -1,3 +1,9 @@
+/*
+  import providers here, like:
+
+
+  import { <exported-named-class } from './providers/<name-of-provider>
+*/
 export class App {
   constructor() {}
 
